@@ -1,1 +1,3 @@
-# codeeducation-desafio-go
+# Executar o container
+
+docker run welisonmenezes/codeeducation
